@@ -1,0 +1,18 @@
+
+#include <iostream>
+using namespace std;
+
+int main() {
+	sting color;
+	int number;
+
+cout<< "enter favorite color: ";
+cin >> color;
+
+cout << "enter you favorite number: ";
+cin<< number; //error 1 >>
+
+cout<< "Hello, your favorite color is" << color << "and your favorite number is" << number<< end1; //error 2
+
+return 0;
+}
